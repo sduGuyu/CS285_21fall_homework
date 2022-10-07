@@ -8,11 +8,11 @@
 ---
 
 ### 一、课程链接
-课程主页：[https://rail.eecs.berkeley.edu/deeprlcourse/](https://rail.eecs.berkeley.edu/deeprlcourse/)
-19年讲义：[https://github.com/harryzhangOG/Deep-RL-Notes/blob/master/Deep_RL.pdf](https://github.com/harryzhangOG/Deep-RL-Notes/blob/master/Deep_RL.pdf)
-视频链接：[https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
-作业链接：[https://github.com/berkeleydeeprlcourse/homework_fall2021](https://github.com/berkeleydeeprlcourse/homework_fall2021)
-中文整理：[https://www.zhihu.com/column/c_1007205220132220928](https://www.zhihu.com/column/c_1007205220132220928)
+1. 课程主页：[https://rail.eecs.berkeley.edu/deeprlcourse/](https://rail.eecs.berkeley.edu/deeprlcourse/)
+2. 19年讲义：[https://github.com/harryzhangOG/Deep-RL-Notes/blob/master/Deep_RL.pdf](https://github.com/harryzhangOG/Deep-RL-Notes/blob/master/Deep_RL.pdf)
+3. 视频链接：[https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH](https://www.youtube.com/playlist?list=PL_iWQOsE6TfXxKgI1GgyV1B_Xa0DxE5eH)
+4. 作业链接：[https://github.com/berkeleydeeprlcourse/homework_fall2021](https://github.com/berkeleydeeprlcourse/homework_fall2021)
+5. 中文整理：[https://www.zhihu.com/column/c_1007205220132220928](https://www.zhihu.com/column/c_1007205220132220928)
 
 ### 二、笔记目录
 
